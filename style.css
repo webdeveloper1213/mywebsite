@@ -264,7 +264,7 @@ margin-right: 2rem;
     line-height: 1.6;
 }
 .service-text {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     font-size: 200;
     font-family: 'Josefin Slab',serif;
     text-align: justify;
@@ -354,21 +354,21 @@ border-radius: .5rem;
     transition: all .5s;
 }
 .card-text h2 {
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 300;
     font-family: 'Baloo Da 2' , serif;
    line-height: 1.4;
    color: red
 }
 .card-text h3 {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: 300;
     font-family: 'Muli' , serif;
    margin-bottom: 1rem;
    
 }
 .card-text p {
-    font-size: 1rem;
+    font-size: 1.3rem;
     font-weight: 300;
     font-family: 'Muli' , serif;
    margin-bottom: 1rem;
